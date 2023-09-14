@@ -1,0 +1,10 @@
+G:\PRG\BFC_Wifi\BFC_Wifi\bin\Debug\BFC_Wifi.exe.config
+G:\PRG\BFC_Wifi\BFC_Wifi\bin\Debug\BFC_Wifi.exe
+G:\PRG\BFC_Wifi\BFC_Wifi\bin\Debug\BFC_Wifi.pdb
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.csprojAssemblyReference.cache
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.Form1.resources
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.Properties.Resources.resources
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.csproj.GenerateResource.cache
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.csproj.CoreCompileInputs.cache
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.exe
+G:\PRG\BFC_Wifi\BFC_Wifi\obj\Debug\BFC_Wifi.pdb
